@@ -11,3 +11,6 @@ to download any of my scarpet apps you wish.
 # Scarpet Apps Included
 ## samecolor
 A scarpet app to change all of the colored blocks in a specified area to be the same color. This is intended to be used for redstone designing.
+
+For example:
+![image info](./images/samecolor_before.png "Kreb's input system before samecolor")
