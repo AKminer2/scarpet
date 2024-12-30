@@ -14,3 +14,7 @@ A scarpet app to change all of the colored blocks in a specified area to be the 
 
 For example:
 ![image info](./images/samecolor_before.png "Kreb's input system before samecolor")
+```
+/samecolor white 117 176 65 123 191 76
+```
+![image info](./images/samecolor_after.png "Kreb's input system after samecolor")
