@@ -3,7 +3,7 @@ This is a collection of scarpet apps made by me to be used for Minecraft purpose
 
 # Installation Instructions
 1. In Minecraft, assuming you have carpet installed, run
-```/carpet scriptAppStore AKminer2/scarpet/programs```
+```/carpet scriptAppStore AKminer2/scarpet/contents/programs```
 2. Next, run
 ```/script download <app>.sc```
 to download any of my scarpet apps you wish.
